@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&display=swap');
+
+
+header {background-color: black;color: white;text-align: center;padding-top: 50px;padding-bottom: 50px;margin: 0px;font-family: Arial;}
+header h1{font-family: "Passion One", serif;text-transform: uppercase;font-size: 5vw;}
+header h1 p {font-size: 2vw;}
+
+
+body {background-color: rgb(235, 234, 234);margin: 0px;min-height: 98vh;}
+a {text-decoration: none;color: white;font-weight: bold;}
+a:hover {text-decoration: underline;}
+
+section {padding-top: 10vh;padding-bottom: 10vh;padding-left: 30px;line-height:2em ; font-family: "Charm", serif;
+font-size: 3.5vw;}
+
+#img01 {background-image: url('../imagens/background001.jpg') ;background-position: right center;background-size: cover;}
+
+#img02 {background-image: url('../imagens/background002.jpg');background-position: right center;background-size: cover;}
+
+.imagem > p {background-color: rgba(0, 0, 0, 0.521);display: inline-block;padding-left: 10px;padding-right: 10px;;}
+.normal {background-color: white;color: black;}
+.imagem {background-color: rgb(73, 72, 72);color: white;box-shadow: inset 2px 2px 5px rgb(68, 65, 65) ;background-attachment: fixed}
+
+
+
+footer {background-color: black;padding: 5px;text-align: center;}
+footer p {margin: 0px;color: white;}

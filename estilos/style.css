@@ -5,7 +5,7 @@
 
 *{margin: 0px;padding: 0px;}
 
-header {background-color: black;color: white;text-align: center;padding-top: 50px;padding-bottom: 50px;margin: 0px;font-family: Arial;min-height: 100px;}
+header {background-color: black;color: white;text-align: center;padding-top: 50px;padding-bottom: 50px;margin: 0px;font-family: Arial;}
 header h1{font-family: "Passion One", serif;text-transform: uppercase;font-size: 5vw;}
 header h1 p {font-size: 2vw;}
 
